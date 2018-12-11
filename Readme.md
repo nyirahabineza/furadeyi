@@ -6,7 +6,7 @@ purpose for the project is to create a personnel website, using html and css and
 ## Setup/Installation Requirements
 * to access it need to have computer or smart phone
 * to have bundle for accessing internet
-* the link for the page is nyirahabineza.github.io/furayideyi
+* the link for the page is file:///home/wecode/Public/project-name/index.html
 * thank you for visiting my website
 ## Known Bugs
 all thing is done
